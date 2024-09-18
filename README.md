@@ -6,7 +6,7 @@
 
 ---
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Shreyas+Om's+GitHub)
+![Welcome Banner](https://via.placeholder.com/1200x300/FF5733/FFFFFF?text=Welcome+to+Shreyas+Om's+GitHub+Portfolio!+🚀)
 
 ---
 
@@ -100,4 +100,5 @@
 
 ---
 
-![Footer Banner](https://via.placeholder.com/1200x150.png?text=Let's+Connect!)
+![Footer Banner](https://via.placeholder.com/1200x150/FF5733/FFFFFF?text=Let's+Connect+and+Build+Something+Awesome!+💡)
+
