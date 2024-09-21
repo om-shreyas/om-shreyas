@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreyas-om) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/om-shreyas)  
-📧 shreyas.garain@gmail.com | 📱 +91 8826753615
+📧 shreyas.garain@gmail.com |
 
 ---
 
